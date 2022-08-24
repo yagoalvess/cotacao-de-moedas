@@ -1,6 +1,6 @@
 # Cotação de moedas
 
-Cotação de moedas por meio de uma **API**
+Cotação de moedas por meio de uma  [**API**](https://docs.awesomeapi.com.br/) 
 
 
 ## MOEDAS USADAS
@@ -14,4 +14,7 @@ Cotação de moedas por meio de uma **API**
  </tr>
  
  </table>
+ 
+ 
+
 
