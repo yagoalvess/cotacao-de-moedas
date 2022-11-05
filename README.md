@@ -1,6 +1,6 @@
 # Cotação de moedas
 
-Cotação de moedas por meio de uma  [**API Publica**](https://docs.awesomeapi.com.br/) P
+Cotação de moedas por meio de uma  [**API Publica**](https://docs.awesomeapi.com.br/) 
 
 
 ## MOEDAS USADAS
