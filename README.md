@@ -1,5 +1,5 @@
 
-Cotação de moedas por meio de uma  **API Publica**
+Software feito para a cotação de moedas por meio de uma  **API Publica**
 
 Foram utilizadas as moedas: **BTC** **USD** **EUR**
 
