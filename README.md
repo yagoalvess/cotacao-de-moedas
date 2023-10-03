@@ -1,20 +1,10 @@
-# Cotação de moedas
 
-Cotação de moedas por meio de uma  [**API Publica**](https://docs.awesomeapi.com.br/) 
+Cotação de moedas por meio de uma  **API Publica**
+
+Foram utilizadas as moedas: **BTC** **USD** **EUR**
+
+_Creditos da API utilizada_: https://docs.awesomeapi.com.br/
 
 
-## MOEDAS USADAS
-
-<table>
- <tr>
- <td>BTC</td>
- <td>USD</td>
- <td>EUR</td>
-
- </tr>
- 
- </table>
- 
- 
 
 
